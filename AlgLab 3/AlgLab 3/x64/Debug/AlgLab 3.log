@@ -1,0 +1,9 @@
+﻿  Source.cpp
+E:\ProgramData\Algs\AlgLab 3\AlgLab 3\Source.cpp(11,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ProgramData\Algs\AlgLab 3\AlgLab 3\Source.cpp(24,23): warning C4244: +=: преобразование "_Ty" в "int", возможна потеря данных
+          with
+          [
+              _Ty=unsigned __int64
+          ]
+E:\ProgramData\Algs\AlgLab 3\AlgLab 3\Source.cpp(41,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  AlgLab 3.vcxproj -> E:\ProgramData\Algs\AlgLab 3\x64\Debug\AlgLab 3.exe

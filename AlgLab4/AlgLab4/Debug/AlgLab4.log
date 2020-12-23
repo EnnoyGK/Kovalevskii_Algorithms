@@ -1,0 +1,4 @@
+﻿  Source.cpp
+E:\ProgramData\Algs\AlgLab4\AlgLab4\Source.cpp(36,22): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ProgramData\Algs\AlgLab4\AlgLab4\Source.cpp(35,23): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+  AlgLab4.vcxproj -> E:\ProgramData\Algs\AlgLab4\Debug\AlgLab4.exe

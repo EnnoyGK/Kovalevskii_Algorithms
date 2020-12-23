@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\ProgramData\Algs\AlgLab6\AlgLab6\Source.cpp(8,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+E:\ProgramData\Algs\AlgLab6\AlgLab6\Source.cpp(9,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ProgramData\Algs\AlgLab6\AlgLab6\Source.cpp(20,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ProgramData\Algs\AlgLab6\AlgLab6\Source.cpp(33,20): warning C4018: <: несоответствие типов со знаком и без знака
+E:\ProgramData\Algs\AlgLab6\AlgLab6\Source.cpp(63,20): warning C4018: <: несоответствие типов со знаком и без знака
+  AlgLab6.vcxproj -> E:\ProgramData\Algs\AlgLab6\Debug\AlgLab6.exe
